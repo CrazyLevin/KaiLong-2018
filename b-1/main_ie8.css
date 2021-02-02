@@ -1,0 +1,471 @@
+
+/*公共头部*/
+.header {
+    height: 106px;
+}
+.header-logo {
+    margin: 33px 0 0 4%;
+}
+.header-logo img {
+    width: 148px;
+}
+.header-nav {
+    margin-top: 41px;
+    /*width: 450px;*/
+    width: 541px;
+}
+.header-nav-a {
+    font-size: 14px;
+}
+.header-change-en-cn {
+    margin: 43px 3% 0 1%;
+}
+.header-change-en-cn-a {
+    font-size: 12px;
+}
+.header-change-en-cn-line:before {
+    content: '';
+    font-size: 0;
+    padding: 8px 0 0;
+    border-left: 1px solid #fff;
+}
+/*公共页脚*/
+.footer-logo {
+    width: 73px;
+}
+.footer-weixin img {
+    width: 17px;
+}
+.footer-in img {
+    width: 15px;
+}
+/*首页轮播*/
+.index-swiper-container {
+    height: 680px;
+}
+.index-loop-btn {
+    margin-left: -104px;
+    width: 208px;
+}
+.index-swiper-slide-a-1 {
+    font-size: 50px;
+}
+.index-swiper-slide-text-1 {
+    height: 73px;
+}
+.index-loop-btn-text {
+    line-height: 50px;
+    font-size: 18px;
+}
+/*首页创新*/
+.index-innovation-h2, .index-ourProject-h2 {
+    font-size: 42px;
+}
+.index-innovation-h3 {
+    font-size: 22px;
+}
+/*首页计划*/
+.index-ourProject-modal-h4 {
+    font-size: 22px;
+}
+.index-ourProject-modal-p {
+    font-size: 14px;
+}
+.index-ourProject-modal {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .6);
+    filter:progid:DXImageTransform.Microsoft.gradient(StartColorStr='#770000000',EndColorStr='#770000000');
+    opacity: 0;
+    transition: opacity .5s linear;
+}
+.index-ourProject-hover li:hover .index-ourProject-modal {
+    display: block;
+}
+.index-ourProject-all-btn {
+    font-size: 14px;
+}
+/*首页计划*/
+.index-news-box {
+    height: 376px;
+}
+.index-news-h2 {
+    font-size: 29px;
+    line-height: 29px;
+}
+.index-news-line {
+    padding-top: 3%;
+    margin-bottom: 3%;
+}
+.index-news-h6 {
+    margin-bottom: 3%;
+    font-size: 12px;
+}
+.index-news-p {
+    line-height: 22px;
+    font-size: 12px;
+}
+.index-news-btn {
+    font-size: 12px;
+}
+/*企业咨询新闻页*/
+.news-link {
+    width: 270px;
+}
+.news-link-left-a, .news-link-right-a {
+    font-size: 12px;
+}
+.news-title {
+    font-size: 33px;
+}
+.news-img-modal {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .7);
+}
+.news-img-modal-span {
+    margin: -12px 0 0 -24px;
+    font-size: 16px;
+}
+.news-img-relative:hover .news-img-modal {
+    display: block;
+}
+.wrapper-news-h1 {
+    line-height: 30px;
+}
+.wrapper-news-h1 a {
+    font-size: 14px;
+    line-height: 30px;
+}
+.wrapper-news-line-p a {
+    font-size: 12px;
+}
+
+/*新闻精选历程*/
+.news-choiceYear-linkYears {
+    font-size: 14px;
+}
+.news-choiceYear-linkYears a {
+    font-size: 14px;
+}.news-choiceYear-linkYears-position {
+    /*margin: -10px 0 0 -232px;*/
+    margin: -10px auto 0;
+    padding: 0 40px;
+}
+/*新闻详情*/
+.news-detail-article-p {
+    font-size: 12px;
+}
+/*我们的业务-业务概况*/
+.ourService-main-h2 {
+    font-size: 33px;
+    line-height: 33px;
+}
+.ourService-main-businessOverview-h3 {
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 16px;
+}
+.ourService-main-ul {
+    font-size: 12px;
+}
+.ourService-main-p {
+    margin: 20px 0;
+    font-size: 12px;
+}
+.ourService-main-businessOverview-icon-1 {
+    width: 78px;
+    right: -68px;
+    top: 4px;
+}
+.ourService-main-businessOverview-icon-2 {
+    position: absolute;
+    /*right: -52px;*/
+    bottom: -93px;
+    width: 93px;
+}
+.ourService-main-portfolioManagement {
+    margin: 117px 0 70px 0;
+}
+.ourService-main-investment {
+    margin: 117px auto 92px ;
+}
+.ourService-main-p-margin {
+    margin: 20px 0 27px 0;
+}
+/*我们的业务-投资组合*/
+.portfolio-Screening-title {
+    /*margin: 0 20px 20px 0;*/
+}
+.portfolio-readMore-a {
+    padding: 17px 88px;
+    font-size: 12px;
+}
+.portfolio-Screening-information-ul-position {
+    padding: 10px 10px;
+    height: 79px;
+}
+.portfolio-Screening-information-ul-h2 {
+    font-size: 21px;
+    line-height: 21px;
+}
+.portfolio-Screening-information-ul-p {
+    font-size: 12px;
+    line-height: 12px;
+    margin: 6px 0 11px 0;
+}
+.portfolio-arrow {
+    width: 26px;
+}
+/*我们的业务-投资组合详情*/
+.portfolio-detail-title {
+    font-size: 24px;
+}
+.portfolio-detail-title-icon {
+    top: 5px;
+    right: -90px;
+    width: 60px;
+}
+.portfolio-detail-title-sm {
+    font-size: 18px;
+}
+.portfolio-detail-modal-h2 {
+    font-size: 18px;
+}
+.portfolio-detail-modal-p {
+    font-size: 12px;
+}
+.portfolio-detail-left-p {
+    font-size: 12px;
+}
+.portfolio-detail-right {
+    font-size: 12px;
+}
+.portfolio-detail-modal {
+    display: none;
+}
+.portfolio-detail-ul li:hover .portfolio-detail-modal {
+    display: block;
+}
+/*我们的业务-基金筛选*/
+.mainBusiness-h2 {
+    font-size: 18px;
+}
+.mainBusiness-p {
+    font-size: 12px;
+}
+.mainBusiness-extendAndHide {
+    width: 36px;
+    height: 36px;
+}
+.mainBusiness-extend-content {
+    font-size: 12px;
+}
+.mainBusiness-extendAndHide-before {
+    margin-left: -6px;
+    width: 12px;
+}
+.mainBusiness-extendAndHide-after {
+    margin-top: -6px;
+    height: 12px;
+}
+/*关于我们-股东*/
+.ourService-nav li {
+    margin-right: 35px;
+}
+.aboutUs-main {
+    margin: 100px auto 0;
+}
+.aboutUs-main-ul li {
+    padding: 30px 0;
+}
+.shareholders-big-h2 {
+    font-size: 24px;
+    line-height: 24px;
+}
+.shareholders-big-p {
+    margin: 50px 0;
+    font-size: 12px;
+}
+.aboutUs-shareholders-left {
+    float: left;
+    width: 35%;
+}
+.aboutUs-shareholders-right {
+    float: left;
+    margin-left: 10%;
+    width: 55%;
+}
+.aboutUs-shareholders-h3 {
+    font-size: 18px;
+    color: #d5162f;
+}
+.aboutUs-shareholders-p {
+    margin: 15px 0 0 0;
+    font-size: 12px;
+    color: #535353;
+}
+/*关于我们-kaiLong*/
+.aboutUs-kaiLong-title-big {
+    font-size: 33px;
+}
+.aboutUs-kaiLong-VMV-content h2 {
+    font-size: 18px;
+}
+.aboutUs-kaiLong-title-big-line {
+    top: 18px;
+}
+.aboutUs-kaiLong-VMV-content b {
+    margin: 5px 0 0 -20px;
+    height: 19px;
+}
+.aboutUs-kaiLong-first p {
+    font-size: 12px;
+}
+.aboutUs-kaiLong-first-last-text {
+    right: -429px;
+    font-size: 12px;
+}
+.aboutUs-kaiLong-VMV-content p {
+    font-size: 12px;
+}
+.kaiLong-culture-left p {
+    font-size: 12px;
+}
+.kaiLong-last-left-position {
+    height: 63%;
+    font-size: 12px;
+}
+.kaiLong-last-left-position-line {
+    bottom: -10px;
+}
+/*关于我们-责任*/
+.responsibility-main {
+    margin: 70px auto 70px;
+}
+.aboutUs-responsibility-nav {
+    margin-bottom: 70px;
+}
+.aboutUs-responsibility-overView h2 {
+    font-size: 24px;
+    line-height: 24px;
+}
+.aboutUs-responsibility-overView p {
+    font-size: 12px;
+}
+.aboutUs-responsibility-overView h3 {
+    font-size: 18px;
+}
+.aboutUs-responsibility-content-left h3 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.aboutUs-responsibility-content-left p {
+    font-size: 12px;
+}
+.aboutUs-responsibility-content-right p {
+    font-size: 12px;
+}
+.responsibility-calendarYear-title {
+    font-size: 24px;
+}
+.calendarYear-modal {
+    font-size: 12px;
+}
+/*关于我们-团建*/
+.aboutUs-teamBuilding-ul {
+    margin: 50px 0;
+}
+.teamBuilding-ul-modal {
+    font-size: 12px;
+}
+.aboutUs-teamBuilding-title {
+    font-size: 24px;
+}
+/*关于我们-团队*/
+.managementTeam-left-img {
+    height: 484px;
+}
+.managementTeam-ul h1 {
+    margin: 5% 0 0 -16%;
+    font-size: 35px;
+    line-height: 60px;
+}
+.managementTeam-ul-modal b {
+    font-size: 14px;
+    width: 35px;
+    color: #fff;
+}
+.managementTeam-ul h2 {
+    font-size: 12px;
+}
+.managementTeam-ul p {
+    font-size: 12px;
+}
+.managementTeam-ul-modal {
+    display: none;
+    opacity: 1;
+}
+.managementTeam-ul-a:hover .managementTeam-ul-modal {
+    display: block;
+}
+/*关于我们-团队详情*/
+.managementTeam-detail-large h2 {
+    font-size: 18px;
+}
+.managementTeam-detail-large p {
+    font-size: 12px;
+}
+.managementTeam-detail-right h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.managementTeam-detail-right p {
+    font-size: 12px;
+}
+.managementTeam-detail-device .swiper-slide:hover .managementTeam-swiper-modal {
+    display: block;
+}
+.managementTeam-swiper-modal {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .6);
+    filter:progid:DXImageTransform.Microsoft.gradient(StartColorStr='#770000000',EndColorStr='#770000000');
+}
+/*联系我们*/
+.contactUs-ul h3 {
+    font-size: 18px;
+}
+.contactUs-ul p {
+    font-size: 12px;
+}
+/*关于我们-历史*/
+.history-swiper-icon {
+    top: 85%;
+    width: 10px;
+
+}
+/*公共字号*/
+/*50-30-18*/
+.title-50 {
+    font-size: 30px;
+}
+/*24-18-14*/
+.title-24 {
+    font-size: 18px;
+}
+.title-18 {
+    font-size: 14px;
+}

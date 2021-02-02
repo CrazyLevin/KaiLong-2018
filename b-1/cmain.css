@@ -1,0 +1,644 @@
+
+body{
+    background: #ffffff;
+}
+
+
+/* �˵� */
+.header-nav {
+    display: table;
+    float: right;
+    margin: 64px 0 0 0;
+    /*width: 516px;*/
+    width: 670px;
+    font-size: 18px;
+}
+.header-nav li {
+    margin-left: 9%;
+}
+
+/* ��ҳ */
+
+
+.index-ourProject-modal-h4{
+    margin-bottom: 6px;
+    font-size: 24px;
+}
+.index-ourProject-modal-p{
+    font-size: 16px;
+}
+
+
+
+/* ��ҳ���� */
+.index-innovation-h2, .index-ourProject-h2 {
+    font-size: 32px;
+    /*font-size: 42px;*/
+}
+.index-innovation-h3 {
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.index-news-h2{
+    font-size: 32px;
+}
+.index-swiper-slide-a-1 {
+    margin-top: -35px;
+    font-size: 70px;
+}
+/* ��ҳ-�ֲ� */
+/*.index-swiper-slide-a-1{*/
+    /*font-size: 50px;*/
+    /*line-height: 80px;*/
+/*}*/
+.index-swiper-slide-text-1 {
+    height: auto;
+    line-height: 80px;
+}
+.index-loop-btn-text{
+    font-size: 24px;
+}
+/*****************************************************/
+
+
+/* ��������-���꾫ѡ */
+.news-choiceYear-linkYears a:hover{
+    color: #d5162f;
+}
+/*****************************************************/
+
+
+/* ��������-��ҵ��Ѷ */
+.news-link{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.wrapper-news-line-p a{
+    display: inline-block;
+    text-align: justify;
+    justify: inter-ideograph;
+}
+.news-title{
+    margin-top: 0;
+    padding-bottom: 40px;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+#gallery-wrapper-news{
+    margin-top: 40px;
+}
+.news-link-left-a, .news-link-right-a{
+    font-size: 16px;
+}
+.news-link{
+    width: 226px;
+}
+/*****************************************************/
+
+/* ��������-���� */
+.news-detail-article-title{
+    font-size:24px;
+}
+.news-detail-article-title{
+    margin-top: 40px;
+}
+.news-detail-article-p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+/*****************************************************/
+
+/* ���ǵ�ҵ��-ҵ����� */
+.ourService-main-p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.ourService-main-h2{
+    font-size: 36px;
+    line-height: 1;
+}
+/*****************************************************/
+
+
+/* ���ǵ�ҵ��-��Ӫҵ�� */
+.mainBusiness-p,
+.mainBusiness-extend-content{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+/*****************************************************/
+
+/* ���ǵ�ҵ��-Ͷ����Ϲ������� */
+.portfolio-detail-left p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.portfolio-Screening-information-ul-h2{
+    font-size: 24px;
+}
+.portfolio-Screening-information-ul-p{
+    font-size: 14px;
+}
+.portfolio-detail-title{
+    font-size: 36px;
+    line-height: 40px;
+}
+.portfolio-detail-title-icon{
+    top: 5px;
+}
+.portfolio-detail-modal-h2{
+    font-size: 24px;
+}
+.portfolio-detail-modal-p{
+    font-size: 16px;
+}
+.portfolio-detail-title-sm{
+    font-size: 24px;
+}
+/*****************************************************/
+
+
+/* ��������-�ɶ����� */
+.shareholders-big-p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.aboutUs-shareholders-p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+/*****************************************************/
+
+/* ��������-�������� */
+.aboutUs-kaiLong-first p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.aboutUs-kaiLong-VMV-content p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.kaiLong-culture-left p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.kaiLong-last-left-position{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.aboutUs-kaiLong-title-big {
+    font-size: 36px;
+
+}
+.kaiLong-culture-left h2{
+    font-size: 16px;
+}
+.kaiLong-last-left-position-line{
+    bottom: 17px;
+}
+.ourService-nav-a{
+    font-size: 16px;
+}
+
+/*****************************************************/
+
+/*  ��������-��ҵ���� */
+.responsibility-content-p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.aboutUs-responsibility-overView p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+    vertical-align:text-top;
+}
+.aboutUs-responsibility-overView h2{
+    font-size: 36px;
+}
+.aboutUs-responsibility-content-left h4{
+    font-size: 24px;
+}
+.aboutUs-responsibility-content-right h4{
+    font-size: 24px;
+    line-height: 30px;
+}
+/*****************************************************/
+
+/* ��������-�����Ŷ� */
+.managementTeam-ul h1{
+    margin-left: 9%;
+    font-size: 36px;
+    line-height: 60px;
+}
+.managementTeam-detail-right p{
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.managementTeam-ul h1 s {
+    right: 1px;
+    width: 70%;
+
+}
+
+/*****************************************************/
+
+/* ��������-�ɶ����� */
+.aboutUs-main{
+    margin-top: 84px;
+}
+.shareholders-big-h2{
+    font-size: 36px;
+}
+/*****************************************************/
+
+/* ��������-�Ŷӽ��� */
+.aboutUs-teamBuilding-title{
+    font-size: 36px;
+    line-height: 40px;
+}
+
+/*****************************************************/
+
+/* ��ϵ���� */
+.contactUs-title{
+     font-size: 36px;
+}
+/*****************************************************/
+
+
+/*.managementTeam-swiper-modal h3 {*/
+    /*font-size: 18px;*/
+/*}*/
+
+
+.aboutUs-kaiLong-first p,
+.aboutUs-kaiLong-VMV-content p,
+.kaiLong-last-left-position,
+.shareholders-big-p,
+.aboutUs-shareholders-p,
+.aboutUs-history-p,
+.aboutUs-responsibility-overView p,
+.aboutUs-responsibility-content-left p,
+.aboutUs-responsibility-content-right p,
+.calendarYear-modal,
+.managementTeam-ul h2,
+.managementTeam-ul p,
+.teamBuilding-ul-modal,
+.ourService-main-p,
+.ourService-main-ul li,
+.mainBusiness-p,
+.portfolio-Screening-information-ul-p,
+.wrapper-news-line-p a,
+.contactUs-ul p,
+.news-detail-article-p,
+.portfolio-detail-left p,
+.portfolio-detail-right-grey,
+.portfolio-label,
+.managementTeam-detail-right p,
+.managementTeam-detail-large p,
+.kaiLong-culture-left p
+{
+    font-size: 14px;
+}
+.aboutUs-kaiLong-first-last-text
+{
+    font-size: 16px;
+}
+.portfolio-detail-right-red,
+.portfolio-detail-right-grey
+{
+    font-size: 16px;
+}
+.aboutUs-kaiLong-VMV-content h2 {
+    font-size: 30px;
+}
+/*.history-swiper-modal p {*/
+    /*font-size: 24px;*/
+/*}*/
+.news-detail-article p {
+    font-size: 14px;
+    color: #535353;
+    text-align: justify;
+    justify: inter-ideograph;
+    letter-spacing: .05em;
+
+}
+/*.aboutUs-kaiLong-last {*/
+    /*margin: 0px auto 100px;*/
+/*}*/
+.index-news-p {
+    text-overflow:unset;
+    white-space: unset;
+}
+.title-18 {
+    font-size: 18px;
+}
+/* media */
+@media screen and (max-width: 1573px)  {
+    /* �˵� */
+    .header-nav li {
+        margin-left: 9%;
+    }
+}
+
+
+@media screen and (max-width: 1440px)  {
+    /* ���ǵ�ҵ��-ҵ����� */
+    .ourService-main-businessOverview-h3{
+        line-height: 22px;
+    }
+    /* �˵� */
+    .header-nav {
+        margin-top: 41px;
+        width: 610px;
+    }
+    .header-nav li {
+        margin-left: 9%;
+    }
+    /* ���ǵ�ҵ��-ҵ����� */
+    .ourService-main-h2 {
+        font-size: 33px;
+        line-height: 33px;
+    }
+    /* ��ҳ-�ֲ� */
+    .index-swiper-slide-text-1 {
+        line-height: 73px;
+    }
+    .index-loop-btn-text {
+        line-height: 50px;
+        font-size: 18px;
+    }
+    .portfolio-Screening-information-ul-h2 {
+        font-size: 18px;
+    }
+    .portfolio-Screening-information-ul-p {
+        /*font-size: 12px;*/
+    }
+    .legal-disclaimer-main {
+        margin-top: 30px;
+    }
+    .portfolio-detail-title-icon{
+        top: 8px;
+    }
+    .responsibility-main-h2 {
+        font-size: 36px;
+    }
+
+}
+
+@media screen and (max-width: 1300px)  {
+    /* ��ҳ-�ֲ� */
+    /*.index-swiper-slide-a-1 {*/
+        /*top: 30%;*/
+
+    /*}*/
+    /* ���ǵ�ҵ��-ҵ����� */
+    .ourService-main-h2 {
+        font-size: 24px;
+    }
+
+}
+
+@media screen and (max-width: 1024px)  {
+    /*.head-banner1{
+        margin-top: 73px;
+    }*/
+    /* �˵� */
+    .header-nav {
+        display: none;
+        position: fixed;
+        top: 73px;
+        margin-top: 0;
+        width: 100%;
+        background: rgba(89, 86, 86, .9);
+        border-top: 1px solid #868686;
+    }
+    .header-nav li {
+        margin-left: 0;
+    }
+    /* ��ҳ-�ֲ� */
+    .index-swiper-slide-text-1 {
+        line-height: 55px;
+    }
+    .index-loop-btn-text {
+        line-height: 35px;
+        font-size: 12px;
+    }
+    .index-swiper-slide-a-1 {
+        margin-top: -8px;
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 700px)  {
+    /*  ��ҳ-���� */
+    .index-innovation-h2, .index-ourProject-h2 {
+        font-size: 32px;
+        line-height: 1.2em;
+    }
+    .index-innovation-h3 {
+        font-size: 16px;
+    }
+
+    /* ��ҳ-�ֲ� */
+    .index-swiper-slide-a-1 {
+        /*top: 36%;*/
+        margin-top: 12px;
+        font-size: 36px;
+        line-height: 30px;
+    }
+    .index-swiper-slide-text-1 {
+        line-height: 35px;
+    }
+    /* ���ǵ�ҵ��-ҵ����� */
+    .ourService-main-h2 {
+        font-size: 22px;
+        margin-top: 22px;
+    }
+    .shareholders-big-h2,
+    .responsibility-main-h2,
+    .managementTeam-ul-mobile-h1,
+    .aboutUs-teamBuilding-title
+    {
+        font-size: 24px;
+    }
+    .aboutUs-responsibility-overView h3 {
+        font-size: 18px;
+    }
+    /* ��������-�������� */
+    .aboutUs-kaiLong-title-big {
+        font-size: 24px;
+        line-height: 18px;
+    }
+    /* ��������-��ҵ����*/
+    .aboutUs-responsibility-content-left h4,
+    .aboutUs-responsibility-content-right h4
+    {
+        font-size: 18px;
+    }
+
+    /* ��ϵ���� */
+    .contactUs-title{
+        font-size: 33px;
+    }
+    /* ��������*/
+    .news-link{
+        width: 90%;
+    }
+
+    .aboutUs-kaiLong-first p,
+    .aboutUs-kaiLong-VMV-content p,
+    .kaiLong-last-left-position,
+    .shareholders-big-p,
+    .aboutUs-shareholders-p,
+    .aboutUs-history-p,
+    .aboutUs-responsibility-overView p,
+    .aboutUs-responsibility-content-left p,
+    .aboutUs-responsibility-content-right p,
+    .calendarYear-modal,
+    .managementTeam-ul h2,
+    .managementTeam-ul p,
+    .teamBuilding-ul-modal,
+    .ourService-main-p,
+    .ourService-main-ul li,
+    .mainBusiness-p,
+    .portfolio-Screening-information-ul-p,
+    .wrapper-news-line-p a,
+    .contactUs-ul p,
+    .news-detail-article-p,
+    .portfolio-detail-left p,
+    .portfolio-detail-right-red,
+    .portfolio-detail-right-grey,
+    .portfolio-label,
+    .managementTeam-detail-right p,
+    .managementTeam-detail-large p,
+    .kaiLong-culture-left p
+    {
+        font-size: 12px;
+    }
+    .aboutUs-kaiLong-first-last-text {
+        font-size: 14px;
+    }
+    .aboutUs-kaiLong-VMV-content h2 {
+        font-size: 20px;
+    }
+    .history-swiper-modal p {
+        font-size: 16px;
+    }
+    .news-detail-article p {
+        font-size: 14px;
+        color: #535353;
+        letter-spacing: .05em;
+    }
+    .news-detail-article p {
+        font-size: 12px;
+    }
+
+}
+
+
+@media screen and (max-width: 500px) {
+    /* ��ҳ */
+    .index-innovation-img{
+        padding-top: 10px;
+    }
+    .index-news-h2{
+        font-size: 18px;
+    }
+    /*  ��ҳ-���� */
+    .index-innovation-h2, .index-ourProject-h2 {
+        font-size: 18px;
+    }
+    .index-innovation-h3 {
+        font-size: 12px;
+    }
+
+    /* ��ҳ-�ֲ� */
+    /*.index-swiper-slide-a-1 {*/
+        /*top: 140px;*/
+        /*font-size: 16px;*/
+        /*line-height: 26px;*/
+    /*}*/
+    .index-swiper-slide-text-1 {
+        line-height: 24px;
+    }
+    /* ��������-�������� */
+    .aboutUs-main{
+        margin-top: 20px;
+    }
+    .kaiLong-culture-left h2{
+        font-size: 12px;
+    }
+    .ourService-nav-a{
+        font-size: 12px;
+    }
+
+    /* ��������-�ɶ�����*/
+
+    /* ��������-��ҵ���� */
+    .aboutUs-responsibility-overView h2{
+        font-size: 18px;
+    }
+    /*  ��������-�Ŷӽ��� */
+
+    .aboutUs-teamBuilding-ul{
+        margin-top: 40px;
+    }
+    /* ���ǵ�ҵ��-Ͷ�ʹ������ */
+    .portfolio-Screening-information-ul-h2{
+        font-size: 16px;
+    }
+    .portfolio-Screening-information-ul-p{
+        font-size: 12px;
+    }
+    .portfolio-detail-title{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .portfolio-detail-title-icon{
+        top: 1px;
+    }
+    .portfolio-detail-modal-h2{
+        font-size: 16px;
+    }
+    .portfolio-detail-modal-p{
+        font-size: 12px;
+    }
+    .portfolio-detail-title-sm{
+        font-size: 16px;
+    }
+    /* ��������-��ҵ��Ѷ */
+    .news-title{
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .news-link-left-a, .news-link-right-a{
+        font-size: 12px;
+    }
+
+    /* ��������-���� */
+    .news-detail-article-title{
+        font-size:16px;
+    }
+    /* ��ϵ���� */
+    .contactUs-title{
+        font-size: 18px;
+    }
+    .contactUs-ul h3{
+        font-size: 16px;
+    }
+    .contactUs-main{
+        margin-top: 30px;
+    }
+    .contactUs-ul{
+        margin-top: 0;
+    }
+}
+@media screen and (max-width: 360px) {
+    .contactUs-ul li > a {
+        font-size: 12px;
+    }
+}
